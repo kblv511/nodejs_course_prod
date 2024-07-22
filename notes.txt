@@ -1,0 +1,12 @@
+C:\inna\nodejs_course\20240708\lesson_3\super-server>npm init
+C:\inna\nodejs_course\20240708\lesson_3\super-server>npm install ws
+
+
+C:\inna\nodejs_course\20240708\lesson_3\super-server>npm link
+
+C:\inna\nodejs_course\20240708\lesson_3\testServer>npm init
+
+C:\inna\nodejs_course\20240708\lesson_3\testServer>npm link kblv-super-server
+
+C:\inna\nodejs_course\20240708\lesson_3\super-server>npm login
+C:\inna\nodejs_course\20240708\lesson_3\super-server>npm publish
