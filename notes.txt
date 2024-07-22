@@ -10,3 +10,10 @@ C:\inna\nodejs_course\20240708\lesson_3\testServer>npm link kblv-super-server
 
 C:\inna\nodejs_course\20240708\lesson_3\super-server>npm login
 C:\inna\nodejs_course\20240708\lesson_3\super-server>npm publish
+
+
+C:\inna\_nodejs_course_prod>git init
+C:\inna\_nodejs_course_prod>git add .
+C:\inna\_nodejs_course_prod>git commit -m "First commit"
+C:\inna\_nodejs_course_prod>git remote add origin https://github.com/kblv511/nodejs_course_prod.git
+C:\inna\_nodejs_course_prod>git push -u origin master
